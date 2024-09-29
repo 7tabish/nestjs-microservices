@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "password": "$2b$12$lDoqd1GAtvcQx1Ml4qGP8.W12lNp/XMdy54cHPWdNvT2pKK0zodJG"
+    },
+    {
+      "id": 2,
+      "username": "tabish",
+      "password": "$2b$12$lDoqd1GAtvcQx1Ml4qGP8.W12lNp/XMdy54cHPWdNvT2pKK0zodJG"
+    }
+  ]
+  
